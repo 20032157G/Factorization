@@ -1,5 +1,5 @@
 # Factorization
-The [repo](https://github.com/20032157G/Factorization.git) of this proyect contains:
+The [repository](https://github.com/20032157G/Factorization.git) of this project contains:
 - fctrz.py
 - coefs.py
 - smplx.py
