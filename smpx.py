@@ -1399,20 +1399,6 @@ def gstB5(ix,x,f,Bb,rt):
         i+=1
     return r
 
-def gstB5(ix,x,c,Bb,rt):
-    r=-1
-    i=0
-    while(i<len(iv)):
-        B=Bb.copy()
-        f=v[iv[i]]
-        B[f]=c
-        L=fls.isN2(rt)
-        if(not fls.isRL2(L,B)):
-            r=iv[i]
-            break
-        i+=1
-    return r
-
 #Metodo simplex especial y en mejora
 def spxE(M,Bb,mxmn,NC,NI,rtBd):#mxmn: 1 max 0 min
     def gI(Z,mm):
