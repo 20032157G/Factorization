@@ -11,4 +11,4 @@ for example :
 * fct(2,2,True,0) => m=n=2, Ope=True (operate as be possible), rgst=0 (this case means do not record the result, -1: is overwrite, 1: is record is result is achieved)     
 * fct2(2,2,True,0) => It is almost the same, the difference is that in one try by Dual minimization the other by Two fases minimization.
 
-To show table results, after execute and have registered, type: **fls.lrf(rtSms)
+To show table results, after execute and have registered, type: _fls.lrf(rtSmD)_ or _fls.lrf(rtSmF)_.
